@@ -1,6 +1,6 @@
 # A place in space, infinite ideas
 - 🔭 I’m currently working on React, Svelte, Go, Postgres full stack apps
-- 🌱 I’m currently learning mobile development
+- 🌱 I’m do mobile development
 - 👯 I’m looking to collaborate on proper ui framework for svelte 5
 - 📫 Reach via discord  
 ![](https://dcbadge.limes.pink/api/shield/363975690670047243)
